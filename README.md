@@ -1,7 +1,7 @@
 # EXPERIMENT 01 ALP FOR 8086
-Name : SARAVANAN P
+Name : Rahul V
 
-Reg no : 212224230253
+Reg no : 212223040163
 
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
