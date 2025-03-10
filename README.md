@@ -1,7 +1,7 @@
 # EXPERIMENT 01 ALP FOR 8086
 ## Name : Rahul V
 ## Reg no : 212223040163
- ## Date of experiment:
+ ## Date of experiment:10/3/2025
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required:
